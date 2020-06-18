@@ -1,0 +1,39 @@
+[
+  {
+    "id":"0",
+    "title": "яблока",
+    "img": "http://filuz.ru/images/Fruits/Spisok/apples.jpg",
+    "alt": "яблока",
+    "info": "Я́блоко — сочный плод яблони, который употребляется в пищу в свежем виде",
+    "price":"5$"
+  },
+  {
+    "id":"1",
+    "title": "Абрикос",
+    "img" : "http://filuz.ru/images/Fruits/Spisok/apricot.jpg",
+    "alt": "Абрикос",
+    "info": "Абрико́с — плод дерева абрикос, обычно абрикоса обыкновенного",
+    "price":"10$"
+  },
+  {"id":"2",
+    "title": "Авокадо",
+    "img" : "http://filuz.ru/images/Fruits/Spisok/avocados.jpg",
+    "alt": "Авокадо",
+    "info": "Авока́до, или Персе́я америка́нская, — вечнозелёное плодовое растение",
+    "price":"2$"
+  },
+  {"id":"3",
+    "title": "Вишня",
+    "img" : "http://filuz.ru/images/Fruits/Spisok/cherry.jpg",
+    "alt": "Вишня",
+    "info": "Ви́шня — подрод растений рода Слива семейства Розовые.",
+    "price":"7$"
+  },
+  {"id":"4",
+    "title": "Груши",
+    "img" : "http://filuz.ru/images/Fruits/Spisok/pear.jpg",
+    "alt": "Груши",
+    "info": "Гру́ша — род плодовых и декоративных деревьев и кустарников семейства Розовые",
+    "price":"10$"
+  }
+]
